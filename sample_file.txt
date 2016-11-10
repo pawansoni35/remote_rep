@@ -1,0 +1,13 @@
+Hello PAwan
+
+This is your sample text file
+
+LEarning GIT is awesome.
+
+Work hard else you will fail
+
+Don't cheat yourself
+
+Keep Calm and stay calm
+
+
